@@ -1,0 +1,4 @@
+PySide6
+hidapi
+pygame-ce
+pyinstaller
